@@ -1,0 +1,42 @@
+# TESTE E2E no celular/emulador com Maestro (https://maestro.mobile.dev)
+# Pré-requisitos: API rodando (cd server && npm start) e app aberto no Expo Go.
+# Rodar: maestro test e2e/maestro
+appId: host.exp.exponent   # Expo Go. Em um build próprio use: com.doceencanto.app
+---
+- launchApp
+- tapOn:
+    id: "login-email"
+- inputText: "maria@exemplo.com"
+- tapOn:
+    id: "login-senha"
+- inputText: "123456"
+- hideKeyboard
+- tapOn:
+    id: "login-entrar"
+- assertVisible: "Frete grátis acima de R$ 150"
+
+# Adiciona dois produtos ao carrinho
+- tapOn:
+    id: "adicionar-5"
+- tapOn:
+    id: "adicionar-6"
+- tapOn:
+    id: "aba-carrinho"
+- assertVisible:
+    id: "item-carrinho-5"
+- tapOn:
+    id: "mais-5"
+- assertVisible: "Subtotal (3 itens)"
+
+# Finaliza a compra (modo demonstração do pagamento)
+- tapOn:
+    id: "finalizar-compra"
+- assertVisible: "Endereço de entrega"
+- scrollUntilVisible:
+    element:
+      id: "pagar"
+- tapOn:
+    id: "pagar"
+- tapOn:
+    id: "simular-aprovado"
+- assertVisible: "Pago com Pix"

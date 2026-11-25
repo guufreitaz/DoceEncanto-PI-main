@@ -1,0 +1,50 @@
+# TESTE E2E: CRUD de produto pela administradora
+appId: host.exp.exponent
+---
+- launchApp:
+    clearState: true
+- tapOn:
+    id: "login-email"
+- inputText: "admin@doceencanto.com"
+- tapOn:
+    id: "login-senha"
+- inputText: "admin123"
+- hideKeyboard
+- tapOn:
+    id: "login-entrar"
+- tapOn:
+    id: "aba-conta"
+- tapOn:
+    id: "menu-admin-produtos"
+
+# CREATE
+- tapOn:
+    id: "novo-produto"
+- tapOn:
+    id: "produto-nome"
+- inputText: "Torta de Limão Maestro"
+- tapOn:
+    id: "produto-preco"
+- inputText: "54,90"
+- hideKeyboard
+- tapOn: "Doce"
+- tapOn:
+    id: "produto-salvar"
+# READ
+- assertVisible: "Torta de Limão Maestro"
+# UPDATE
+- tapOn:
+    text: "Editar Torta de Limão Maestro"
+- tapOn:
+    id: "produto-preco"
+- eraseText
+- inputText: "49,90"
+- hideKeyboard
+- tapOn:
+    id: "produto-salvar"
+- assertVisible: "R$ 49,90"
+# DELETE
+- tapOn:
+    text: "Excluir Torta de Limão Maestro"
+- tapOn: "Excluir"
+- assertNotVisible: "Torta de Limão Maestro"

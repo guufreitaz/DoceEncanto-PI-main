@@ -1,0 +1,5644 @@
+{
+  "empresa": "Doce Encanto",
+  "gerado_em": "2026-11-25T16:47:11.324Z",
+  "totais": {
+    "produtos": 12,
+    "clientes": 41,
+    "pedidos": 181,
+    "mensagens": 1
+  },
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Bolo Red Velvet",
+      "categoria": "Bolo",
+      "preco": 129.9,
+      "ativo": true,
+      "criado_em": "2026-11-25 16:46:48"
+    },
+    {
+      "id": 2,
+      "nome": "Bolo de Cenoura com Chocolate",
+      "categoria": "Bolo",
+      "preco": 59.9,
+      "ativo": true,
+      "criado_em": "2026-11-25 16:46:48"
+    },
+    {
+      "id": 3,
+      "nome": "Bolo de Pote Ninho com Morango",
+      "categoria": "Bolo",
+      "preco": 16.9,
+      "ativo": true,
+      "criado_em": "2026-11-25 16:46:48"
+    },
+    {
+      "id": 4,
+      "nome": "Fatia de Morango",
+      "categoria": "Bolo",
+      "preco": 18.9,
+      "ativo": true,
+      "criado_em": "2026-11-25 16:46:48"
+    },
+    {
+      "id": 5,
+      "nome": "Cupcake de Framboesa",
+      "categoria": "Doce",
+      "preco": 14.9,
+      "ativo": true,
+      "criado_em": "2026-11-25 16:46:48"
+    },
+    {
+      "id": 6,
+      "nome": "Brigadeiro Gourmet (caixa com 12)",
+      "categoria": "Doce",
+      "preco": 42,
+      "ativo": true,
+      "criado_em": "2026-11-25 16:46:48"
+    },
+    {
+      "id": 7,
+      "nome": "Macarons Especiais (6 unidades)",
+      "categoria": "Doce",
+      "preco": 24,
+      "ativo": true,
+      "criado_em": "2026-11-25 16:46:48"
+    },
+    {
+      "id": 8,
+      "nome": "Verrine de Chocolate",
+      "categoria": "Doce",
+      "preco": 16.5,
+      "ativo": true,
+      "criado_em": "2026-11-25 16:46:48"
+    },
+    {
+      "id": 9,
+      "nome": "Brownie com Nozes",
+      "categoria": "Doce",
+      "preco": 12,
+      "ativo": true,
+      "criado_em": "2026-11-25 16:46:48"
+    },
+    {
+      "id": 10,
+      "nome": "Empada de Palmito",
+      "categoria": "Salgado",
+      "preco": 9.5,
+      "ativo": true,
+      "criado_em": "2026-11-25 16:46:48"
+    },
+    {
+      "id": 11,
+      "nome": "Mini Quiche (6 unidades)",
+      "categoria": "Salgado",
+      "preco": 28,
+      "ativo": true,
+      "criado_em": "2026-11-25 16:46:48"
+    },
+    {
+      "id": 12,
+      "nome": "Coxinha de Frango (cento)",
+      "categoria": "Salgado",
+      "preco": 89,
+      "ativo": true,
+      "criado_em": "2026-11-25 16:46:48"
+    }
+  ],
+  "clientes": [
+    {
+      "id": 2,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-25 16:46:48"
+    },
+    {
+      "id": 3,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-07-19 13:39:00"
+    },
+    {
+      "id": 4,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-08-05 13:45:00"
+    },
+    {
+      "id": 5,
+      "cidade": "Salvador",
+      "uf": "BA",
+      "criado_em": "2026-07-19 13:10:00"
+    },
+    {
+      "id": 6,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-04 13:49:00"
+    },
+    {
+      "id": 7,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-07-27 13:15:00"
+    },
+    {
+      "id": 8,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-07-26 13:31:00"
+    },
+    {
+      "id": 9,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-07-24 13:42:00"
+    },
+    {
+      "id": 10,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-08-11 13:17:00"
+    },
+    {
+      "id": 11,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-07-20 13:06:00"
+    },
+    {
+      "id": 12,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-07-24 13:24:00"
+    },
+    {
+      "id": 13,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-07-27 13:25:00"
+    },
+    {
+      "id": 14,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-07-29 13:36:00"
+    },
+    {
+      "id": 15,
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "criado_em": "2026-08-10 13:10:00"
+    },
+    {
+      "id": 16,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-07-22 13:35:00"
+    },
+    {
+      "id": 17,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-16 13:33:00"
+    },
+    {
+      "id": 18,
+      "cidade": "Campinas",
+      "uf": "SP",
+      "criado_em": "2026-07-25 13:10:00"
+    },
+    {
+      "id": 19,
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "criado_em": "2026-08-04 13:24:00"
+    },
+    {
+      "id": 20,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-09 13:24:00"
+    },
+    {
+      "id": 21,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-05 13:48:00"
+    },
+    {
+      "id": 22,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-08-15 13:24:00"
+    },
+    {
+      "id": 23,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-07-27 13:41:00"
+    },
+    {
+      "id": 24,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-08-14 13:05:00"
+    },
+    {
+      "id": 25,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-07-27 13:07:00"
+    },
+    {
+      "id": 26,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-07 13:35:00"
+    },
+    {
+      "id": 27,
+      "cidade": "Santo André",
+      "uf": "SP",
+      "criado_em": "2026-08-05 13:31:00"
+    },
+    {
+      "id": 28,
+      "cidade": "Campinas",
+      "uf": "SP",
+      "criado_em": "2026-08-08 13:39:00"
+    },
+    {
+      "id": 29,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-08-16 13:32:00"
+    },
+    {
+      "id": 30,
+      "cidade": "Osasco",
+      "uf": "SP",
+      "criado_em": "2026-07-27 13:39:00"
+    },
+    {
+      "id": 31,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-15 13:54:00"
+    },
+    {
+      "id": 32,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-07-27 13:38:00"
+    },
+    {
+      "id": 33,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-07-31 13:58:00"
+    },
+    {
+      "id": 34,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-02 13:58:00"
+    },
+    {
+      "id": 35,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-09 13:08:00"
+    },
+    {
+      "id": 36,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-07-28 13:59:00"
+    },
+    {
+      "id": 37,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-07-30 13:02:00"
+    },
+    {
+      "id": 38,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-09 13:14:00"
+    },
+    {
+      "id": 39,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-07-27 13:36:00"
+    },
+    {
+      "id": 40,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-09 13:48:00"
+    },
+    {
+      "id": 41,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-08-06 13:52:00"
+    },
+    {
+      "id": 42,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-07-30 13:11:00"
+    }
+  ],
+  "pedidos": [
+    {
+      "id": 100,
+      "cliente_id": 33,
+      "status": "entregue",
+      "metodo_pagamento": "boleto",
+      "subtotal": 54.2,
+      "frete": 18,
+      "total": 72.2,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-07-29 21:02:00",
+      "itens": [
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 14.9,
+          "subtotal": 44.7
+        },
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 9.5,
+          "subtotal": 9.5
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "cliente_id": 16,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 44.7,
+      "frete": 12,
+      "total": 56.7,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-07-30 16:38:00",
+      "itens": [
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 14.9,
+          "subtotal": 44.7
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "cliente_id": 8,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 36,
+      "frete": 18,
+      "total": 54,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-08-01 18:51:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 12,
+          "subtotal": 36
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "cliente_id": 5,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 80.5,
+      "frete": 30,
+      "total": 110.5,
+      "cidade": "Salvador",
+      "uf": "BA",
+      "criado_em": "2026-08-04 13:42:00",
+      "itens": [
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 14.9,
+          "subtotal": 29.8
+        },
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 16.9,
+          "subtotal": 50.7
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "cliente_id": 22,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 56.7,
+      "frete": 22,
+      "total": 78.7,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-08-05 12:05:00",
+      "itens": [
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 18.9,
+          "subtotal": 56.7
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "cliente_id": 16,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 186.9,
+      "frete": 0,
+      "total": 186.9,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-05 18:14:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 12,
+          "subtotal": 24
+        },
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 16.5,
+          "subtotal": 33
+        },
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 129.9,
+          "subtotal": 129.9
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "cliente_id": 26,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_debito",
+      "subtotal": 12,
+      "frete": 12,
+      "total": 24,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-06 14:36:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 12,
+          "subtotal": 12
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "cliente_id": 10,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 145,
+      "frete": 18,
+      "total": 163,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-08-06 23:29:00",
+      "itens": [
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 9.5,
+          "subtotal": 19
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 42,
+          "subtotal": 126
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "cliente_id": 15,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 50.7,
+      "frete": 18,
+      "total": 68.7,
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "criado_em": "2026-08-07 13:22:00",
+      "itens": [
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 16.9,
+          "subtotal": 50.7
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "cliente_id": 38,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 142.4,
+      "frete": 12,
+      "total": 154.4,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-07 16:05:00",
+      "itens": [
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 18.9,
+          "subtotal": 37.8
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 14.9,
+          "subtotal": 44.7
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 59.9,
+          "subtotal": 59.9
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "cliente_id": 24,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 36,
+      "frete": 12,
+      "total": 48,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-08-07 17:46:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 12,
+          "subtotal": 36
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "cliente_id": 4,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 331.6,
+      "frete": 0,
+      "total": 331.6,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-08-08 17:11:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 129.9,
+          "subtotal": 259.8
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 14.9,
+          "subtotal": 29.8
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 42,
+          "subtotal": 42
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "cliente_id": 14,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 56,
+      "frete": 12,
+      "total": 68,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-08 18:29:00",
+      "itens": [
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 28,
+          "subtotal": 56
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "cliente_id": 15,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 37.8,
+      "frete": 18,
+      "total": 55.8,
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "criado_em": "2026-08-09 15:47:00",
+      "itens": [
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 18.9,
+          "subtotal": 37.8
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "cliente_id": 27,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 66.9,
+      "frete": 12,
+      "total": 78.9,
+      "cidade": "Santo André",
+      "uf": "SP",
+      "criado_em": "2026-08-11 18:37:00",
+      "itens": [
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 18.9,
+          "subtotal": 18.9
+        },
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 24,
+          "subtotal": 48
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "cliente_id": 35,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 83.7,
+      "frete": 12,
+      "total": 95.7,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-12 15:57:00",
+      "itens": [
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 16.9,
+          "subtotal": 50.7
+        },
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 16.5,
+          "subtotal": 33
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "cliente_id": 31,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 259.8,
+      "frete": 0,
+      "total": 259.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-13 13:32:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 129.9,
+          "subtotal": 259.8
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "cliente_id": 18,
+      "status": "entregue",
+      "metodo_pagamento": "boleto",
+      "subtotal": 18.9,
+      "frete": 12,
+      "total": 30.9,
+      "cidade": "Campinas",
+      "uf": "SP",
+      "criado_em": "2026-08-13 17:35:00",
+      "itens": [
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 18.9,
+          "subtotal": 18.9
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "cliente_id": 23,
+      "status": "entregue",
+      "metodo_pagamento": "boleto",
+      "subtotal": 238,
+      "frete": 0,
+      "total": 238,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-08-14 13:51:00",
+      "itens": [
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 9.5,
+          "subtotal": 28.5
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 59.9,
+          "subtotal": 179.7
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 14.9,
+          "subtotal": 29.8
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "cliente_id": 4,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 114.9,
+      "frete": 12,
+      "total": 126.9,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-08-14 21:29:00",
+      "itens": [
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 24,
+          "subtotal": 72
+        },
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 12,
+          "subtotal": 24
+        },
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 18.9,
+          "subtotal": 18.9
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "cliente_id": 15,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 176.5,
+      "frete": 0,
+      "total": 176.5,
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "criado_em": "2026-08-14 23:10:00",
+      "itens": [
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 18.9,
+          "subtotal": 56.7
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 59.9,
+          "subtotal": 119.8
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "cliente_id": 31,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 121.8,
+      "frete": 12,
+      "total": 133.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-15 12:43:00",
+      "itens": [
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 18.9,
+          "subtotal": 37.8
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 42,
+          "subtotal": 84
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "cliente_id": 16,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 129.9,
+      "frete": 12,
+      "total": 141.9,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-15 15:19:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 129.9,
+          "subtotal": 129.9
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "cliente_id": 39,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 375,
+      "frete": 0,
+      "total": 375,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-08-15 15:19:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 89,
+          "subtotal": 267
+        },
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 24,
+          "subtotal": 72
+        },
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 12,
+          "subtotal": 36
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "cliente_id": 26,
+      "status": "cancelado",
+      "metodo_pagamento": "pix",
+      "subtotal": 260.4,
+      "frete": 0,
+      "total": 260.4,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-15 21:26:00",
+      "itens": [
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 18.9,
+          "subtotal": 56.7
+        },
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 24,
+          "subtotal": 24
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 59.9,
+          "subtotal": 179.7
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "cliente_id": 23,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 206.7,
+      "frete": 0,
+      "total": 206.7,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-08-16 17:11:00",
+      "itens": [
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 18.9,
+          "subtotal": 56.7
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 42,
+          "subtotal": 126
+        },
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 24,
+          "subtotal": 24
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "cliente_id": 39,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 161.7,
+      "frete": 0,
+      "total": 161.7,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-08-17 14:49:00",
+      "itens": [
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 42,
+          "subtotal": 84
+        },
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 16.5,
+          "subtotal": 33
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 14.9,
+          "subtotal": 44.7
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "cliente_id": 8,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 50.7,
+      "frete": 18,
+      "total": 68.7,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-08-17 23:30:00",
+      "itens": [
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 16.9,
+          "subtotal": 50.7
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "cliente_id": 31,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 33.9,
+      "frete": 12,
+      "total": 45.9,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-19 12:54:00",
+      "itens": [
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 9.5,
+          "subtotal": 19
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 14.9,
+          "subtotal": 14.9
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "cliente_id": 4,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 96,
+      "frete": 12,
+      "total": 108,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-08-19 19:55:00",
+      "itens": [
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 24,
+          "subtotal": 72
+        },
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 12,
+          "subtotal": 24
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "cliente_id": 4,
+      "status": "recusado",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 106.2,
+      "frete": 12,
+      "total": 118.2,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-08-19 20:12:00",
+      "itens": [
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 18.9,
+          "subtotal": 56.7
+        },
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 16.5,
+          "subtotal": 49.5
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "cliente_id": 4,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 16.9,
+      "frete": 12,
+      "total": 28.9,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-08-21 18:28:00",
+      "itens": [
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 16.9,
+          "subtotal": 16.9
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "cliente_id": 14,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 149.9,
+      "frete": 12,
+      "total": 161.9,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-21 23:34:00",
+      "itens": [
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 42,
+          "subtotal": 42
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 59.9,
+          "subtotal": 59.9
+        },
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 24,
+          "subtotal": 48
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "cliente_id": 30,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 45.4,
+      "frete": 12,
+      "total": 57.4,
+      "cidade": "Osasco",
+      "uf": "SP",
+      "criado_em": "2026-08-22 16:07:00",
+      "itens": [
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 16.9,
+          "subtotal": 16.9
+        },
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 9.5,
+          "subtotal": 28.5
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "cliente_id": 37,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 96,
+      "frete": 12,
+      "total": 108,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-22 20:07:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 12,
+          "subtotal": 12
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 42,
+          "subtotal": 84
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "cliente_id": 21,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 348.8,
+      "frete": 0,
+      "total": 348.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-22 20:35:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 129.9,
+          "subtotal": 259.8
+        },
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 89,
+          "subtotal": 89
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "cliente_id": 18,
+      "status": "cancelado",
+      "metodo_pagamento": "boleto",
+      "subtotal": 73.8,
+      "frete": 12,
+      "total": 85.8,
+      "cidade": "Campinas",
+      "uf": "SP",
+      "criado_em": "2026-08-22 21:37:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 12,
+          "subtotal": 36
+        },
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 18.9,
+          "subtotal": 37.8
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "cliente_id": 26,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 84,
+      "frete": 12,
+      "total": 96,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-24 15:18:00",
+      "itens": [
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 42,
+          "subtotal": 84
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "cliente_id": 6,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 302.7,
+      "frete": 0,
+      "total": 302.7,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-24 18:18:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 129.9,
+          "subtotal": 259.8
+        },
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 18.9,
+          "subtotal": 18.9
+        },
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 12,
+          "subtotal": 24
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "cliente_id": 14,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_debito",
+      "subtotal": 474.8,
+      "frete": 0,
+      "total": 474.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-24 19:29:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 89,
+          "subtotal": 89
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 42,
+          "subtotal": 126
+        },
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 129.9,
+          "subtotal": 259.8
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "cliente_id": 27,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 376.7,
+      "frete": 0,
+      "total": 376.7,
+      "cidade": "Santo André",
+      "uf": "SP",
+      "criado_em": "2026-08-24 22:15:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 89,
+          "subtotal": 178
+        },
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 9.5,
+          "subtotal": 19
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 59.9,
+          "subtotal": 179.7
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "cliente_id": 12,
+      "status": "entregue",
+      "metodo_pagamento": "boleto",
+      "subtotal": 107.9,
+      "frete": 12,
+      "total": 119.9,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-08-25 23:27:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 12,
+          "subtotal": 24
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 59.9,
+          "subtotal": 59.9
+        },
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 24,
+          "subtotal": 24
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "cliente_id": 16,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 37.8,
+      "frete": 12,
+      "total": 49.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-27 15:24:00",
+      "itens": [
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 18.9,
+          "subtotal": 37.8
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "cliente_id": 35,
+      "status": "recusado",
+      "metodo_pagamento": "pix",
+      "subtotal": 206,
+      "frete": 0,
+      "total": 206,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-27 20:04:00",
+      "itens": [
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 16.5,
+          "subtotal": 33
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 42,
+          "subtotal": 84
+        },
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 89,
+          "subtotal": 89
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "cliente_id": 31,
+      "status": "cancelado",
+      "metodo_pagamento": "pix",
+      "subtotal": 156,
+      "frete": 0,
+      "total": 156,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-27 21:16:00",
+      "itens": [
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 24,
+          "subtotal": 72
+        },
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 28,
+          "subtotal": 84
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "cliente_id": 7,
+      "status": "recusado",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 146.5,
+      "frete": 12,
+      "total": 158.5,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-08-30 17:35:00",
+      "itens": [
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 24,
+          "subtotal": 48
+        },
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 89,
+          "subtotal": 89
+        },
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 9.5,
+          "subtotal": 9.5
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "cliente_id": 25,
+      "status": "recusado",
+      "metodo_pagamento": "pix",
+      "subtotal": 74.8,
+      "frete": 12,
+      "total": 86.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-09-01 15:22:00",
+      "itens": [
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 14.9,
+          "subtotal": 14.9
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 59.9,
+          "subtotal": 59.9
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "cliente_id": 11,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 88.5,
+      "frete": 22,
+      "total": 110.5,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-09-01 20:51:00",
+      "itens": [
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 18.9,
+          "subtotal": 37.8
+        },
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 16.9,
+          "subtotal": 50.7
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "cliente_id": 5,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_debito",
+      "subtotal": 476.5,
+      "frete": 0,
+      "total": 476.5,
+      "cidade": "Salvador",
+      "uf": "BA",
+      "criado_em": "2026-09-01 21:06:00",
+      "itens": [
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 14.9,
+          "subtotal": 29.8
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 59.9,
+          "subtotal": 179.7
+        },
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 89,
+          "subtotal": 267
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "cliente_id": 20,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 215,
+      "frete": 0,
+      "total": 215,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-09-02 21:15:00",
+      "itens": [
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 42,
+          "subtotal": 126
+        },
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 16.5,
+          "subtotal": 33
+        },
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 28,
+          "subtotal": 56
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "cliente_id": 29,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 48,
+      "frete": 12,
+      "total": 60,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-09-03 19:26:00",
+      "itens": [
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 24,
+          "subtotal": 48
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "cliente_id": 37,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 259.8,
+      "frete": 0,
+      "total": 259.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-09-04 15:07:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 129.9,
+          "subtotal": 259.8
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "cliente_id": 41,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 165.9,
+      "frete": 0,
+      "total": 165.9,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-09-04 16:04:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 129.9,
+          "subtotal": 129.9
+        },
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 12,
+          "subtotal": 36
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "cliente_id": 15,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 12,
+      "frete": 18,
+      "total": 30,
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "criado_em": "2026-09-04 16:28:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 12,
+          "subtotal": 12
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "cliente_id": 7,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 19,
+      "frete": 12,
+      "total": 31,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-09-05 12:18:00",
+      "itens": [
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 9.5,
+          "subtotal": 19
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "cliente_id": 13,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 257.8,
+      "frete": 0,
+      "total": 257.8,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-09-05 21:46:00",
+      "itens": [
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 42,
+          "subtotal": 126
+        },
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 12,
+          "subtotal": 12
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 59.9,
+          "subtotal": 119.8
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "cliente_id": 6,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 151.6,
+      "frete": 0,
+      "total": 151.6,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-09-08 22:23:00",
+      "itens": [
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 16.9,
+          "subtotal": 16.9
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 59.9,
+          "subtotal": 119.8
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 14.9,
+          "subtotal": 14.9
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "cliente_id": 26,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 121.5,
+      "frete": 12,
+      "total": 133.5,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-09-09 16:04:00",
+      "itens": [
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 24,
+          "subtotal": 72
+        },
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 16.5,
+          "subtotal": 49.5
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "cliente_id": 13,
+      "status": "recusado",
+      "metodo_pagamento": "pix",
+      "subtotal": 211.8,
+      "frete": 0,
+      "total": 211.8,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-09-09 20:00:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 89,
+          "subtotal": 178
+        },
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 16.9,
+          "subtotal": 33.8
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "cliente_id": 11,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_debito",
+      "subtotal": 84,
+      "frete": 22,
+      "total": 106,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-09-09 23:28:00",
+      "itens": [
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 42,
+          "subtotal": 84
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "cliente_id": 40,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 288.3,
+      "frete": 0,
+      "total": 288.3,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-09-11 13:46:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 129.9,
+          "subtotal": 259.8
+        },
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 9.5,
+          "subtotal": 28.5
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "cliente_id": 33,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 242.4,
+      "frete": 0,
+      "total": 242.4,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-09-11 21:38:00",
+      "itens": [
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 28,
+          "subtotal": 84
+        },
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 129.9,
+          "subtotal": 129.9
+        },
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 9.5,
+          "subtotal": 28.5
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "cliente_id": 24,
+      "status": "entregue",
+      "metodo_pagamento": "boleto",
+      "subtotal": 16.9,
+      "frete": 12,
+      "total": 28.9,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-09-11 22:06:00",
+      "itens": [
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 16.9,
+          "subtotal": 16.9
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "cliente_id": 13,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 36,
+      "frete": 12,
+      "total": 48,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-09-12 14:59:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 12,
+          "subtotal": 36
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "cliente_id": 33,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 175.8,
+      "frete": 0,
+      "total": 175.8,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-09-12 19:42:00",
+      "itens": [
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 59.9,
+          "subtotal": 119.8
+        },
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 28,
+          "subtotal": 56
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "cliente_id": 24,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 194.6,
+      "frete": 0,
+      "total": 194.6,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-09-12 21:28:00",
+      "itens": [
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 59.9,
+          "subtotal": 179.7
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 14.9,
+          "subtotal": 14.9
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "cliente_id": 7,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 230.8,
+      "frete": 0,
+      "total": 230.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-09-13 15:39:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 129.9,
+          "subtotal": 129.9
+        },
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 16.9,
+          "subtotal": 16.9
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 42,
+          "subtotal": 84
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "cliente_id": 7,
+      "status": "cancelado",
+      "metodo_pagamento": "pix",
+      "subtotal": 24,
+      "frete": 12,
+      "total": 36,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-09-13 18:35:00",
+      "itens": [
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 24,
+          "subtotal": 24
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "cliente_id": 8,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 175.5,
+      "frete": 0,
+      "total": 175.5,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-09-13 19:56:00",
+      "itens": [
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 16.5,
+          "subtotal": 49.5
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 42,
+          "subtotal": 126
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "cliente_id": 4,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 236.3,
+      "frete": 0,
+      "total": 236.3,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-09-16 22:19:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 89,
+          "subtotal": 178
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 14.9,
+          "subtotal": 29.8
+        },
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 9.5,
+          "subtotal": 28.5
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "cliente_id": 30,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 176.5,
+      "frete": 0,
+      "total": 176.5,
+      "cidade": "Osasco",
+      "uf": "SP",
+      "criado_em": "2026-09-17 14:23:00",
+      "itens": [
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 59.9,
+          "subtotal": 119.8
+        },
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 18.9,
+          "subtotal": 56.7
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "cliente_id": 4,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 385.7,
+      "frete": 0,
+      "total": 385.7,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-09-18 15:28:00",
+      "itens": [
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 28,
+          "subtotal": 28
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 59.9,
+          "subtotal": 179.7
+        },
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 89,
+          "subtotal": 178
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "cliente_id": 4,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 244.8,
+      "frete": 0,
+      "total": 244.8,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-09-19 12:55:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 89,
+          "subtotal": 89
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 59.9,
+          "subtotal": 119.8
+        },
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 12,
+          "subtotal": 36
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "cliente_id": 42,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 33,
+      "frete": 12,
+      "total": 45,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-09-20 17:59:00",
+      "itens": [
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 16.5,
+          "subtotal": 33
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "cliente_id": 19,
+      "status": "entregue",
+      "metodo_pagamento": "boleto",
+      "subtotal": 208.2,
+      "frete": 0,
+      "total": 208.2,
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "criado_em": "2026-09-26 13:45:00",
+      "itens": [
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 9.5,
+          "subtotal": 28.5
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 59.9,
+          "subtotal": 179.7
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "cliente_id": 21,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 148.8,
+      "frete": 12,
+      "total": 160.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-09-26 20:27:00",
+      "itens": [
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 18.9,
+          "subtotal": 18.9
+        },
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 129.9,
+          "subtotal": 129.9
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "cliente_id": 32,
+      "status": "entregue",
+      "metodo_pagamento": "boleto",
+      "subtotal": 95.8,
+      "frete": 18,
+      "total": 113.8,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-09-27 14:47:00",
+      "itens": [
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 42,
+          "subtotal": 42
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 14.9,
+          "subtotal": 29.8
+        },
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 24,
+          "subtotal": 24
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "cliente_id": 15,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 166.5,
+      "frete": 0,
+      "total": 166.5,
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "criado_em": "2026-09-27 16:44:00",
+      "itens": [
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 18.9,
+          "subtotal": 37.8
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 14.9,
+          "subtotal": 44.7
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 42,
+          "subtotal": 84
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "cliente_id": 38,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 259.8,
+      "frete": 0,
+      "total": 259.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-09-27 23:25:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 129.9,
+          "subtotal": 259.8
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "cliente_id": 7,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 97.2,
+      "frete": 12,
+      "total": 109.2,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-09-28 16:20:00",
+      "itens": [
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 16.5,
+          "subtotal": 16.5
+        },
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 12,
+          "subtotal": 24
+        },
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 18.9,
+          "subtotal": 56.7
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "cliente_id": 3,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 28.5,
+      "frete": 12,
+      "total": 40.5,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-09-28 17:48:00",
+      "itens": [
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 9.5,
+          "subtotal": 28.5
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "cliente_id": 40,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 259.8,
+      "frete": 0,
+      "total": 259.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-09-29 22:05:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 129.9,
+          "subtotal": 259.8
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "cliente_id": 35,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_debito",
+      "subtotal": 158.4,
+      "frete": 0,
+      "total": 158.4,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-09-30 18:48:00",
+      "itens": [
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 16.5,
+          "subtotal": 16.5
+        },
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 129.9,
+          "subtotal": 129.9
+        },
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 12,
+          "subtotal": 12
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "cliente_id": 23,
+      "status": "recusado",
+      "metodo_pagamento": "pix",
+      "subtotal": 59.9,
+      "frete": 12,
+      "total": 71.9,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-10-01 17:26:00",
+      "itens": [
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 59.9,
+          "subtotal": 59.9
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "cliente_id": 8,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 59.9,
+      "frete": 18,
+      "total": 77.9,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-10-03 22:33:00",
+      "itens": [
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 59.9,
+          "subtotal": 59.9
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "cliente_id": 31,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 131.9,
+      "frete": 12,
+      "total": 143.9,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-05 18:18:00",
+      "itens": [
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 24,
+          "subtotal": 72
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 59.9,
+          "subtotal": 59.9
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "cliente_id": 10,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 207.8,
+      "frete": 0,
+      "total": 207.8,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-10-06 19:03:00",
+      "itens": [
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 14.9,
+          "subtotal": 29.8
+        },
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 89,
+          "subtotal": 178
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "cliente_id": 21,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 187.7,
+      "frete": 0,
+      "total": 187.7,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-06 23:48:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 89,
+          "subtotal": 89
+        },
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 18.9,
+          "subtotal": 56.7
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 42,
+          "subtotal": 42
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "cliente_id": 5,
+      "status": "recusado",
+      "metodo_pagamento": "pix",
+      "subtotal": 112,
+      "frete": 30,
+      "total": 142,
+      "cidade": "Salvador",
+      "uf": "BA",
+      "criado_em": "2026-10-08 15:06:00",
+      "itens": [
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 28,
+          "subtotal": 28
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 42,
+          "subtotal": 84
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "cliente_id": 17,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 61,
+      "frete": 12,
+      "total": 73,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-09 21:09:00",
+      "itens": [
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 42,
+          "subtotal": 42
+        },
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 9.5,
+          "subtotal": 19
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "cliente_id": 11,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 156,
+      "frete": 0,
+      "total": 156,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-10-09 22:58:00",
+      "itens": [
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 24,
+          "subtotal": 72
+        },
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 28,
+          "subtotal": 84
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "cliente_id": 26,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 42,
+      "frete": 12,
+      "total": 54,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-10 22:34:00",
+      "itens": [
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 42,
+          "subtotal": 42
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "cliente_id": 30,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 66.2,
+      "frete": 12,
+      "total": 78.2,
+      "cidade": "Osasco",
+      "uf": "SP",
+      "criado_em": "2026-10-11 21:53:00",
+      "itens": [
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 9.5,
+          "subtotal": 9.5
+        },
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 18.9,
+          "subtotal": 56.7
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "cliente_id": 20,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 56.5,
+      "frete": 12,
+      "total": 68.5,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-12 16:45:00",
+      "itens": [
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 28,
+          "subtotal": 28
+        },
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 9.5,
+          "subtotal": 28.5
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "cliente_id": 10,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 141.8,
+      "frete": 18,
+      "total": 159.8,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-10-12 18:52:00",
+      "itens": [
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 28,
+          "subtotal": 28
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 42,
+          "subtotal": 84
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 14.9,
+          "subtotal": 29.8
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "cliente_id": 40,
+      "status": "recusado",
+      "metodo_pagamento": "pix",
+      "subtotal": 37.8,
+      "frete": 12,
+      "total": 49.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-13 17:37:00",
+      "itens": [
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 18.9,
+          "subtotal": 37.8
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "cliente_id": 25,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 301.8,
+      "frete": 0,
+      "total": 301.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-13 20:26:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 129.9,
+          "subtotal": 259.8
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 42,
+          "subtotal": 42
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "cliente_id": 39,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 79.5,
+      "frete": 22,
+      "total": 101.5,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-10-14 12:50:00",
+      "itens": [
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 28,
+          "subtotal": 28
+        },
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 9.5,
+          "subtotal": 9.5
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 42,
+          "subtotal": 42
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "cliente_id": 42,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 430.7,
+      "frete": 0,
+      "total": 430.7,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-16 20:57:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 89,
+          "subtotal": 267
+        },
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 129.9,
+          "subtotal": 129.9
+        },
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 16.9,
+          "subtotal": 33.8
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "cliente_id": 38,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 114.2,
+      "frete": 12,
+      "total": 126.2,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-17 19:00:00",
+      "itens": [
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 16.5,
+          "subtotal": 16.5
+        },
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 18.9,
+          "subtotal": 37.8
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 59.9,
+          "subtotal": 59.9
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "cliente_id": 22,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 192.9,
+      "frete": 0,
+      "total": 192.9,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-10-17 23:17:00",
+      "itens": [
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 14.9,
+          "subtotal": 14.9
+        },
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 89,
+          "subtotal": 178
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "cliente_id": 40,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 298.8,
+      "frete": 0,
+      "total": 298.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-17 23:20:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 89,
+          "subtotal": 267
+        },
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 16.9,
+          "subtotal": 16.9
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 14.9,
+          "subtotal": 14.9
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "cliente_id": 11,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 437.7,
+      "frete": 0,
+      "total": 437.7,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-10-18 15:34:00",
+      "itens": [
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 24,
+          "subtotal": 48
+        },
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 129.9,
+          "subtotal": 389.7
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "cliente_id": 8,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 108,
+      "frete": 18,
+      "total": 126,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-10-19 13:52:00",
+      "itens": [
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 28,
+          "subtotal": 84
+        },
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 24,
+          "subtotal": 24
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "cliente_id": 13,
+      "status": "entregue",
+      "metodo_pagamento": "boleto",
+      "subtotal": 44.5,
+      "frete": 12,
+      "total": 56.5,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-10-19 15:01:00",
+      "itens": [
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 16.5,
+          "subtotal": 16.5
+        },
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 28,
+          "subtotal": 28
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "cliente_id": 32,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 178,
+      "frete": 0,
+      "total": 178,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-10-19 18:07:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 89,
+          "subtotal": 178
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "cliente_id": 35,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 129.9,
+      "frete": 12,
+      "total": 141.9,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-19 22:02:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 129.9,
+          "subtotal": 129.9
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "cliente_id": 33,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 12,
+      "frete": 18,
+      "total": 30,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-10-20 13:23:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 12,
+          "subtotal": 12
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "cliente_id": 39,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 33,
+      "frete": 22,
+      "total": 55,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-10-21 19:05:00",
+      "itens": [
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 16.5,
+          "subtotal": 33
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "cliente_id": 6,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 29.8,
+      "frete": 12,
+      "total": 41.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-21 23:56:00",
+      "itens": [
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 14.9,
+          "subtotal": 29.8
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "cliente_id": 29,
+      "status": "recusado",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 154,
+      "frete": 0,
+      "total": 154,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-10-22 14:17:00",
+      "itens": [
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 42,
+          "subtotal": 126
+        },
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 28,
+          "subtotal": 28
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "cliente_id": 23,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 46.7,
+      "frete": 12,
+      "total": 58.7,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-10-22 18:36:00",
+      "itens": [
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 16.9,
+          "subtotal": 16.9
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 14.9,
+          "subtotal": 29.8
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "cliente_id": 23,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 220.6,
+      "frete": 0,
+      "total": 220.6,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-10-24 23:32:00",
+      "itens": [
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 59.9,
+          "subtotal": 179.7
+        },
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 12,
+          "subtotal": 24
+        },
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 16.9,
+          "subtotal": 16.9
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "cliente_id": 17,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 195.8,
+      "frete": 0,
+      "total": 195.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-25 21:52:00",
+      "itens": [
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 16.9,
+          "subtotal": 33.8
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 42,
+          "subtotal": 126
+        },
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 12,
+          "subtotal": 36
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "cliente_id": 26,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 68.5,
+      "frete": 12,
+      "total": 80.5,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-27 15:15:00",
+      "itens": [
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 16.5,
+          "subtotal": 49.5
+        },
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 9.5,
+          "subtotal": 19
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "cliente_id": 39,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 52,
+      "frete": 22,
+      "total": 74,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-10-28 12:29:00",
+      "itens": [
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 28,
+          "subtotal": 28
+        },
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 24,
+          "subtotal": 24
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "cliente_id": 28,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 118.8,
+      "frete": 12,
+      "total": 130.8,
+      "cidade": "Campinas",
+      "uf": "SP",
+      "criado_em": "2026-10-28 19:24:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 89,
+          "subtotal": 89
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 14.9,
+          "subtotal": 29.8
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "cliente_id": 37,
+      "status": "recusado",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 129.9,
+      "frete": 12,
+      "total": 141.9,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-28 20:57:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 129.9,
+          "subtotal": 129.9
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "cliente_id": 6,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 417.7,
+      "frete": 0,
+      "total": 417.7,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-28 21:00:00",
+      "itens": [
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 28,
+          "subtotal": 28
+        },
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 129.9,
+          "subtotal": 389.7
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "cliente_id": 24,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 56,
+      "frete": 12,
+      "total": 68,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-10-30 15:39:00",
+      "itens": [
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 28,
+          "subtotal": 56
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "cliente_id": 42,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 59.9,
+      "frete": 12,
+      "total": 71.9,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-30 17:31:00",
+      "itens": [
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 59.9,
+          "subtotal": 59.9
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "cliente_id": 26,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 28.5,
+      "frete": 12,
+      "total": 40.5,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-10-31 14:13:00",
+      "itens": [
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 9.5,
+          "subtotal": 28.5
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "cliente_id": 4,
+      "status": "cancelado",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 179.8,
+      "frete": 0,
+      "total": 179.8,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-10-31 16:15:00",
+      "itens": [
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 16.5,
+          "subtotal": 33
+        },
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 129.9,
+          "subtotal": 129.9
+        },
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 16.9,
+          "subtotal": 16.9
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "cliente_id": 22,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 298.7,
+      "frete": 0,
+      "total": 298.7,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-11-02 20:37:00",
+      "itens": [
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 24,
+          "subtotal": 24
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 14.9,
+          "subtotal": 14.9
+        },
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 129.9,
+          "subtotal": 259.8
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "cliente_id": 5,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 103.9,
+      "frete": 30,
+      "total": 133.9,
+      "cidade": "Salvador",
+      "uf": "BA",
+      "criado_em": "2026-11-03 21:41:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 89,
+          "subtotal": 89
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 14.9,
+          "subtotal": 14.9
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "cliente_id": 5,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 16.9,
+      "frete": 30,
+      "total": 46.9,
+      "cidade": "Salvador",
+      "uf": "BA",
+      "criado_em": "2026-11-03 23:33:00",
+      "itens": [
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 16.9,
+          "subtotal": 16.9
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "cliente_id": 37,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 106.2,
+      "frete": 12,
+      "total": 118.2,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-04 15:17:00",
+      "itens": [
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 18.9,
+          "subtotal": 56.7
+        },
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 16.5,
+          "subtotal": 49.5
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "cliente_id": 15,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 311.7,
+      "frete": 0,
+      "total": 311.7,
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "criado_em": "2026-11-04 16:33:00",
+      "itens": [
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 14.9,
+          "subtotal": 44.7
+        },
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 89,
+          "subtotal": 267
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "cliente_id": 38,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 64.9,
+      "frete": 12,
+      "total": 76.9,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-04 23:01:00",
+      "itens": [
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 24,
+          "subtotal": 48
+        },
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 16.9,
+          "subtotal": 16.9
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "cliente_id": 36,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 136.7,
+      "frete": 12,
+      "total": 148.7,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-05 13:45:00",
+      "itens": [
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 59.9,
+          "subtotal": 119.8
+        },
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 16.9,
+          "subtotal": 16.9
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "cliente_id": 10,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 84,
+      "frete": 18,
+      "total": 102,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-11-05 22:20:00",
+      "itens": [
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 42,
+          "subtotal": 84
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "cliente_id": 3,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 78.9,
+      "frete": 12,
+      "total": 90.9,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-06 13:14:00",
+      "itens": [
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 9.5,
+          "subtotal": 19
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 59.9,
+          "subtotal": 59.9
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "cliente_id": 35,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 259.8,
+      "frete": 0,
+      "total": 259.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-06 20:43:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 129.9,
+          "subtotal": 259.8
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "cliente_id": 36,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 259.8,
+      "frete": 0,
+      "total": 259.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-07 12:58:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 129.9,
+          "subtotal": 259.8
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "cliente_id": 30,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 57,
+      "frete": 12,
+      "total": 69,
+      "cidade": "Osasco",
+      "uf": "SP",
+      "criado_em": "2026-11-08 15:07:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 12,
+          "subtotal": 24
+        },
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 16.5,
+          "subtotal": 33
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "cliente_id": 6,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 576.3,
+      "frete": 0,
+      "total": 576.3,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-08 15:54:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 89,
+          "subtotal": 267
+        },
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 129.9,
+          "subtotal": 259.8
+        },
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 16.5,
+          "subtotal": 49.5
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "cliente_id": 36,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 157,
+      "frete": 0,
+      "total": 157,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-08 17:56:00",
+      "itens": [
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 9.5,
+          "subtotal": 19
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 42,
+          "subtotal": 126
+        },
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 12,
+          "subtotal": 12
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "cliente_id": 39,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 33.8,
+      "frete": 22,
+      "total": 55.8,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-11-08 20:34:00",
+      "itens": [
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 16.9,
+          "subtotal": 33.8
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "cliente_id": 6,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 437.8,
+      "frete": 0,
+      "total": 437.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-09 23:03:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 89,
+          "subtotal": 178
+        },
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 129.9,
+          "subtotal": 259.8
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "cliente_id": 22,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 75,
+      "frete": 22,
+      "total": 97,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-11-10 13:59:00",
+      "itens": [
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 16.5,
+          "subtotal": 33
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 42,
+          "subtotal": 42
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "cliente_id": 29,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 33.8,
+      "frete": 12,
+      "total": 45.8,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-11-11 12:25:00",
+      "itens": [
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 16.9,
+          "subtotal": 33.8
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "cliente_id": 17,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 16.9,
+      "frete": 12,
+      "total": 28.9,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-11 15:10:00",
+      "itens": [
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 16.9,
+          "subtotal": 16.9
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "cliente_id": 40,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 389.7,
+      "frete": 0,
+      "total": 389.7,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-11 16:04:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 129.9,
+          "subtotal": 389.7
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "cliente_id": 8,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 24,
+      "frete": 18,
+      "total": 42,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-11-12 14:45:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 12,
+          "subtotal": 24
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "cliente_id": 16,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 162.7,
+      "frete": 0,
+      "total": 162.7,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-12 18:02:00",
+      "itens": [
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 28,
+          "subtotal": 28
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 14.9,
+          "subtotal": 14.9
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 59.9,
+          "subtotal": 119.8
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "cliente_id": 9,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 24,
+      "frete": 12,
+      "total": 36,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-13 12:45:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 12,
+          "subtotal": 24
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "cliente_id": 28,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 198.6,
+      "frete": 0,
+      "total": 198.6,
+      "cidade": "Campinas",
+      "uf": "SP",
+      "criado_em": "2026-11-13 14:25:00",
+      "itens": [
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 59.9,
+          "subtotal": 179.7
+        },
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 18.9,
+          "subtotal": 18.9
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "cliente_id": 8,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 12,
+      "frete": 18,
+      "total": 30,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-11-14 12:59:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 12,
+          "subtotal": 12
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "cliente_id": 31,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 115.8,
+      "frete": 12,
+      "total": 127.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-14 14:47:00",
+      "itens": [
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 28,
+          "subtotal": 84
+        },
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 16.9,
+          "subtotal": 16.9
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 14.9,
+          "subtotal": 14.9
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "cliente_id": 12,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 255.9,
+      "frete": 0,
+      "total": 255.9,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-11-14 19:44:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 129.9,
+          "subtotal": 129.9
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 42,
+          "subtotal": 126
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "cliente_id": 7,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 352.8,
+      "frete": 0,
+      "total": 352.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-15 16:02:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 89,
+          "subtotal": 267
+        },
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 18.9,
+          "subtotal": 37.8
+        },
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 24,
+          "subtotal": 48
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "cliente_id": 6,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 36,
+      "frete": 12,
+      "total": 48,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-15 19:40:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 12,
+          "subtotal": 36
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "cliente_id": 38,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 12,
+      "frete": 12,
+      "total": 24,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-15 20:12:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 12,
+          "subtotal": 12
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "cliente_id": 36,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 124.5,
+      "frete": 12,
+      "total": 136.5,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-16 13:34:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 12,
+          "subtotal": 36
+        },
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 16.9,
+          "subtotal": 50.7
+        },
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 18.9,
+          "subtotal": 37.8
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "cliente_id": 18,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 316.5,
+      "frete": 0,
+      "total": 316.5,
+      "cidade": "Campinas",
+      "uf": "SP",
+      "criado_em": "2026-11-16 14:10:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 129.9,
+          "subtotal": 259.8
+        },
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 18.9,
+          "subtotal": 56.7
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "cliente_id": 30,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 42,
+      "frete": 12,
+      "total": 54,
+      "cidade": "Osasco",
+      "uf": "SP",
+      "criado_em": "2026-11-17 12:15:00",
+      "itens": [
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 42,
+          "subtotal": 42
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "cliente_id": 3,
+      "status": "cancelado",
+      "metodo_pagamento": "pix",
+      "subtotal": 45,
+      "frete": 12,
+      "total": 57,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-17 16:59:00",
+      "itens": [
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 16.5,
+          "subtotal": 16.5
+        },
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 9.5,
+          "subtotal": 28.5
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "cliente_id": 7,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 179.7,
+      "frete": 0,
+      "total": 179.7,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-18 12:37:00",
+      "itens": [
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 59.9,
+          "subtotal": 179.7
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "cliente_id": 14,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 71.9,
+      "frete": 12,
+      "total": 83.9,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-18 16:13:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 12,
+          "subtotal": 12
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 59.9,
+          "subtotal": 59.9
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "cliente_id": 29,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 267,
+      "frete": 0,
+      "total": 267,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-11-18 17:35:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 89,
+          "subtotal": 267
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "cliente_id": 13,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 102.9,
+      "frete": 12,
+      "total": 114.9,
+      "cidade": "Guarulhos",
+      "uf": "SP",
+      "criado_em": "2026-11-18 19:45:00",
+      "itens": [
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 3,
+          "preco_unitario": 28,
+          "subtotal": 84
+        },
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 18.9,
+          "subtotal": 18.9
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "cliente_id": 32,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 129.9,
+      "frete": 18,
+      "total": 147.9,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-11-18 21:22:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 129.9,
+          "subtotal": 129.9
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "cliente_id": 10,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_debito",
+      "subtotal": 202,
+      "frete": 0,
+      "total": 202,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-11-19 12:18:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 89,
+          "subtotal": 178
+        },
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 24,
+          "subtotal": 24
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "cliente_id": 37,
+      "status": "entregue",
+      "metodo_pagamento": "boleto",
+      "subtotal": 101.8,
+      "frete": 12,
+      "total": 113.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-19 15:26:00",
+      "itens": [
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 24,
+          "subtotal": 72
+        },
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 14.9,
+          "subtotal": 29.8
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "cliente_id": 37,
+      "status": "entregue",
+      "metodo_pagamento": "pix",
+      "subtotal": 47.9,
+      "frete": 12,
+      "total": 59.9,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-19 19:38:00",
+      "itens": [
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 14.9,
+          "subtotal": 14.9
+        },
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 16.5,
+          "subtotal": 33
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "cliente_id": 30,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 19,
+      "frete": 12,
+      "total": 31,
+      "cidade": "Osasco",
+      "uf": "SP",
+      "criado_em": "2026-11-19 21:44:00",
+      "itens": [
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 9.5,
+          "subtotal": 19
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "cliente_id": 35,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_debito",
+      "subtotal": 126,
+      "frete": 12,
+      "total": 138,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-20 12:35:00",
+      "itens": [
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 42,
+          "subtotal": 126
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "cliente_id": 19,
+      "status": "recusado",
+      "metodo_pagamento": "pix",
+      "subtotal": 19,
+      "frete": 18,
+      "total": 37,
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "criado_em": "2026-11-21 14:08:00",
+      "itens": [
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 9.5,
+          "subtotal": 19
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "cliente_id": 33,
+      "status": "entregue",
+      "metodo_pagamento": "boleto",
+      "subtotal": 33.8,
+      "frete": 18,
+      "total": 51.8,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-11-21 20:17:00",
+      "itens": [
+        {
+          "produto_id": 3,
+          "nome": "Bolo de Pote Ninho com Morango",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 16.9,
+          "subtotal": 33.8
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "cliente_id": 31,
+      "status": "enviado",
+      "metodo_pagamento": "cartao_debito",
+      "subtotal": 200.5,
+      "frete": 0,
+      "total": 200.5,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-22 14:32:00",
+      "itens": [
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 12,
+          "subtotal": 24
+        },
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 18.9,
+          "subtotal": 56.7
+        },
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 59.9,
+          "subtotal": 119.8
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "cliente_id": 40,
+      "status": "enviado",
+      "metodo_pagamento": "pix",
+      "subtotal": 18.9,
+      "frete": 12,
+      "total": 30.9,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-22 19:33:00",
+      "itens": [
+        {
+          "produto_id": 4,
+          "nome": "Fatia de Morango",
+          "categoria": "Bolo",
+          "quantidade": 1,
+          "preco_unitario": 18.9,
+          "subtotal": 18.9
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "cliente_id": 28,
+      "status": "enviado",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 49.5,
+      "frete": 12,
+      "total": 61.5,
+      "cidade": "Campinas",
+      "uf": "SP",
+      "criado_em": "2026-11-22 23:12:00",
+      "itens": [
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 16.5,
+          "subtotal": 49.5
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "cliente_id": 9,
+      "status": "entregue",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 287.8,
+      "frete": 0,
+      "total": 287.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-22 23:21:00",
+      "itens": [
+        {
+          "produto_id": 11,
+          "nome": "Mini Quiche (6 unidades)",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 28,
+          "subtotal": 28
+        },
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 129.9,
+          "subtotal": 259.8
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "cliente_id": 19,
+      "status": "enviado",
+      "metodo_pagamento": "pix",
+      "subtotal": 131.8,
+      "frete": 18,
+      "total": 149.8,
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "criado_em": "2026-11-23 13:38:00",
+      "itens": [
+        {
+          "produto_id": 2,
+          "nome": "Bolo de Cenoura com Chocolate",
+          "categoria": "Bolo",
+          "quantidade": 2,
+          "preco_unitario": 59.9,
+          "subtotal": 119.8
+        },
+        {
+          "produto_id": 9,
+          "nome": "Brownie com Nozes",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 12,
+          "subtotal": 12
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "cliente_id": 16,
+      "status": "pago",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 389.7,
+      "frete": 0,
+      "total": 389.7,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-24 12:02:00",
+      "itens": [
+        {
+          "produto_id": 1,
+          "nome": "Bolo Red Velvet",
+          "categoria": "Bolo",
+          "quantidade": 3,
+          "preco_unitario": 129.9,
+          "subtotal": 389.7
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "cliente_id": 11,
+      "status": "pago",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 59.5,
+      "frete": 22,
+      "total": 81.5,
+      "cidade": "Curitiba",
+      "uf": "PR",
+      "criado_em": "2026-11-24 14:09:00",
+      "itens": [
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 24,
+          "subtotal": 24
+        },
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 16.5,
+          "subtotal": 16.5
+        },
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 9.5,
+          "subtotal": 19
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "cliente_id": 33,
+      "status": "pago",
+      "metodo_pagamento": "cartao_debito",
+      "subtotal": 49.5,
+      "frete": 18,
+      "total": 67.5,
+      "cidade": "Rio de Janeiro",
+      "uf": "RJ",
+      "criado_em": "2026-11-25 14:25:28",
+      "itens": [
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 3,
+          "preco_unitario": 16.5,
+          "subtotal": 49.5
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "cliente_id": 18,
+      "status": "pago",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 59.5,
+      "frete": 12,
+      "total": 71.5,
+      "cidade": "Campinas",
+      "uf": "SP",
+      "criado_em": "2026-11-25 15:23:40",
+      "itens": [
+        {
+          "produto_id": 8,
+          "nome": "Verrine de Chocolate",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 16.5,
+          "subtotal": 16.5
+        },
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 9.5,
+          "subtotal": 19
+        },
+        {
+          "produto_id": 7,
+          "nome": "Macarons Especiais (6 unidades)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 24,
+          "subtotal": 24
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "cliente_id": 5,
+      "status": "pago",
+      "metodo_pagamento": "pix",
+      "subtotal": 178,
+      "frete": 0,
+      "total": 178,
+      "cidade": "Salvador",
+      "uf": "BA",
+      "criado_em": "2026-11-25 15:43:00",
+      "itens": [
+        {
+          "produto_id": 12,
+          "nome": "Coxinha de Frango (cento)",
+          "categoria": "Salgado",
+          "quantidade": 2,
+          "preco_unitario": 89,
+          "subtotal": 178
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "cliente_id": 35,
+      "status": "em_preparo",
+      "metodo_pagamento": "cartao_credito",
+      "subtotal": 9.5,
+      "frete": 12,
+      "total": 21.5,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-25 15:43:05",
+      "itens": [
+        {
+          "produto_id": 10,
+          "nome": "Empada de Palmito",
+          "categoria": "Salgado",
+          "quantidade": 1,
+          "preco_unitario": 9.5,
+          "subtotal": 9.5
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "cliente_id": 2,
+      "status": "pago",
+      "metodo_pagamento": "pix",
+      "subtotal": 71.8,
+      "frete": 12,
+      "total": 83.8,
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "criado_em": "2026-11-25 16:47:03",
+      "itens": [
+        {
+          "produto_id": 5,
+          "nome": "Cupcake de Framboesa",
+          "categoria": "Doce",
+          "quantidade": 2,
+          "preco_unitario": 14.9,
+          "subtotal": 29.8
+        },
+        {
+          "produto_id": 6,
+          "nome": "Brigadeiro Gourmet (caixa com 12)",
+          "categoria": "Doce",
+          "quantidade": 1,
+          "preco_unitario": 42,
+          "subtotal": 42
+        }
+      ]
+    }
+  ],
+  "contatos": [
+    {
+      "id": 1,
+      "assunto": "Encomenda para aniversário",
+      "respondida": false,
+      "criado_em": "2026-11-25 16:47:06"
+    }
+  ]
+}

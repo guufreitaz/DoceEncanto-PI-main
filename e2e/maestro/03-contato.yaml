@@ -1,0 +1,26 @@
+# TESTE E2E: cliente envia mensagem pelo Fale conosco
+appId: host.exp.exponent
+---
+- launchApp:
+    clearState: true
+- tapOn:
+    id: "login-email"
+- inputText: "maria@exemplo.com"
+- tapOn:
+    id: "login-senha"
+- inputText: "123456"
+- hideKeyboard
+- tapOn:
+    id: "login-entrar"
+- tapOn:
+    id: "aba-contato"
+- tapOn:
+    id: "contato-assunto"
+- inputText: "Encomenda"
+- tapOn:
+    id: "contato-mensagem"
+- inputText: "Vocês fazem bolo para 40 pessoas?"
+- hideKeyboard
+- tapOn:
+    id: "contato-enviar"
+- assertVisible: "Mensagem enviada!"
